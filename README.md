@@ -1,4 +1,4 @@
-# Finetune - Tinh Chỉnh Mô Hình Ngôn Ngữ Lớn với Unsloth
+# Finetune với Unsloth
 
 [![GitHub stars](https://img.shields.io/github/stars/Chunn241529/finetune?style=social)](https://github.com/Chunn241529/finetune/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Chunn241529/finetune?style=social)](https://github.com/Chunn241529/finetune/network)
