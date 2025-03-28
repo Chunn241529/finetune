@@ -82,3 +82,5 @@ Dù bạn là nhà nghiên cứu, lập trình viên hay người đam mê AI, d
 ## 🚀 Cách Sử Dụng
 1. Chỉnh sửa `finetune.ipynb` nếu cần (ví dụ: thay đổi model_name).
 2. Bấm nút run all
+
+## [Donate for me](https://www.paypal.com/paypalme/TrungVuong24?country.x=VN&locale.x=vi_VN)
