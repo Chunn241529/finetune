@@ -62,8 +62,8 @@ Dù bạn là nhà nghiên cứu, lập trình viên hay người đam mê AI, d
       cd finetune
       ```
   7. Cài đặt VSCode và các extensions liên quan:
-    - Các extensions python.
-    - Các extensions Jupyter.
+      - Các extensions python.
+      - Các extensions Jupyter.
   8. Cài đặt thư viện:
       ```bash
       cd helper
