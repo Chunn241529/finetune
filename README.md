@@ -30,9 +30,9 @@ Dù bạn là nhà nghiên cứu, lập trình viên hay người đam mê AI, d
 
 ## 📥 Hướng Dẫn Cài Đặt
 
-### 1. Chuẩn Bị Môi Trường
+### Chuẩn Bị Môi Trường
 
-  #### Cài đặt NVIDIA Driver và CUDA 12.4
+#### Cài đặt NVIDIA Driver và CUDA 12.4
   1. Tải script cài đặt tự động:
       ```bash
       wget https://raw.githubusercontent.com/Chunn241529/finetune/refs/heads/main/helper/install_cuda.sh
