@@ -74,8 +74,8 @@ Dù bạn là nhà nghiên cứu, lập trình viên hay người đam mê AI, d
       ```bash
       echo "HF_TOKEN=your_huggingface_token_here" > .env 
       ```
-      Lấy token tại [Hugging Face Settings.](https://huggingface.co/settings/tokens)
-      Thay `your_huggingface_token_here` bằng token của bạn.
+      - Lấy token tại [Hugging Face Settings.](https://huggingface.co/settings/tokens)
+      - Thay `your_huggingface_token_here` bằng token của bạn.
     2. Đảm bảo `.env` được bỏ qua trong `.gitignore` (đã có sẵn).
 
 
