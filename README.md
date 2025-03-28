@@ -35,12 +35,12 @@ Dù bạn là nhà nghiên cứu, lập trình viên hay người đam mê AI, d
 #### Cài đặt NVIDIA Driver và CUDA 12.4
   1. Tải script cài đặt tự động:
       ```bash
-      wget https://raw.githubusercontent.com/Chunn241529/finetune/main/install_nvidia_cuda.sh
+      wget https://raw.githubusercontent.com/Chunn241529/finetune/refs/heads/main/helper/install_cuda.sh
       ```
   2. Cấp quyền và chạy:
       ```bash
-      chmod +x install_nvidia_cuda.sh
-      sudo ./install_nvidia_cuda.sh
+      chmod +x install_cuda.sh
+      sudo ./install_cuda.sh
       ```
   3. Khởi động lại hệ thống:
       ```bash
