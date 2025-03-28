@@ -34,41 +34,41 @@ Dù bạn là nhà nghiên cứu, lập trình viên hay người đam mê AI, d
 
 #### Cài đặt NVIDIA Driver và CUDA 12.4
   1. Tải script cài đặt tự động:
-    ```bash
-    wget https://raw.githubusercontent.com/Chunn241529/finetune/main/install_nvidia_cuda.sh
-    ```
+      ```bash
+      wget https://raw.githubusercontent.com/Chunn241529/finetune/main/install_nvidia_cuda.sh
+      ```
   2. Cấp quyền và chạy:
-    ```bash
-    chmod +x install_nvidia_cuda.sh
-    sudo ./install_nvidia_cuda.sh
-    ```
+      ```bash
+      chmod +x install_nvidia_cuda.sh
+      sudo ./install_nvidia_cuda.sh
+      ```
   3. Khởi động lại hệ thống:
-    ```bash
-    sudo reboot
-    ```
+      ```bash
+      sudo reboot
+      ```
   4. Kiểm tra cài đặt:
-    ```bash
-    nvidia-smi  # Xem thông tin driver và GPU
-    nvcc --version  # Xác nhận CUDA 12.4
-    ```
+      ```bash
+      nvidia-smi  # Xem thông tin driver và GPU
+      nvcc --version  # Xác nhận CUDA 12.4
+      ```
   5. Cài đặt python và git
-    ```bash
-    sudo apt update
-    sudo apt install -y python3 python3-pip git
-    ```
+      ```bash
+      sudo apt update
+      sudo apt install -y python3 python3-pip git
+      ```
   6. Git clone source:
-    ```bash
-    git clone https://github.com/Chunn241529/finetune.git
-    cd finetune
-    ```
+      ```bash
+      git clone https://github.com/Chunn241529/finetune.git
+      cd finetune
+      ```
   7. Cài đặt VSCode và các extensions liên quan:
     1. Các extensions python.
     2. Các extensions Jupyter.
   8. Cài đặt thư viện:
-    ```bash
-    cd helper
-    ./install.sh
-    ```
+      ```bash
+      cd helper
+      ./install.sh
+      ```
   9. Thiết Lập Token Hugging Face:
     1. Tạo tệp .env để lưu token:
       ```bash
